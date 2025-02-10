@@ -135,7 +135,8 @@ nav:
           - Planejamento da Verificação Árvore de Tarefas Concorrentes: Verificacao/plan_verif_arvoreTarefas.md
           - Resultado Verificação Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
 
-
+- Reta final:
+    - Reta final: Desenvolvimento/retafinal.md
 
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
