@@ -135,7 +135,14 @@ nav:
           - Planejamento da Verificação Árvore de Tarefas Concorrentes: Verificacao/plan_verif_arvoreTarefas.md
           - Resultado Verificação Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
   - Entrega Final:
-    -
+    - Site Selecionado: Entrega/site_selecionado.md
+    - Ciclo de Vida: Entrega/ciclo_de_vida.md
+    - Planejamento dos recursos e das entregas: Entrega/planejamento_recursos_entregas.md
+    - Resultados Alcançados: Entrega/resultados_alcancados.md
+    - Ferramentas do Projeto: Entrega/ferramentas_projeto.md
+    - Tecnicas que foram Utilizadas: Entrega/tecnicas_utilizadas.md
+    - Tabela de artefatos: Entrega/tabela_artefatos.md
+    - Tabela avaliações dos protótipos: Entrega/tabela_avaliacao_prototipos.md
 
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
