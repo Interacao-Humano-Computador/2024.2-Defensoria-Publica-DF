@@ -12,21 +12,40 @@ Para estruturar e visualizar melhor o uso das ferramentas no projeto, utilizamos
 
 ## Ferramentas utilizadas no projeto:
 
-<center>
-<font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
+| Ferramenta               | Descrição                                                                                                         |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Git/GitHub               | Plataforma de versionamento e colaboração em projetos de desenvolvimento.                                        |
+| VS Code                 | Editor de código-fonte altamente customizável e compatível com diversas linguagens de programação.              |
+| Google Docs              | Ferramenta para criação e edição colaborativa de documentos.                                                     |
+| YouTube                  | Plataforma de hospedagem de vídeos produzidos.                                                                   |
+| WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
+| Microsoft Teams          | Ferramenta de comunicação completa, usada para reuniões online e também para gravar encontros.                 |
+| Figma                    | Plataforma colaborativa para design de interfaces, permitindo criar protótipos interativos e realizar edições em tempo real com equipes. |
+| Canva                    | Ferramenta de design gráfico intuitiva.                                         |
+| Mkdocs                   | Gerador de sites estáticos voltado para documentação de projetos, escrito em Python e utilizando arquivos Markdown para criação de conteúdo de forma simples e organizada.|
 
-| Logo                                                | Ferramenta               | Descrição                                                                                                         |
-| --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> | Git/GitHub               | Plataforma de versionamento e colaboração em projetos de desenvolvimento.                                        |
-| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25"> | VS Code                 | Editor de código-fonte altamente customizável e compatível com diversas linguagens de programação.              |
-| <img src="https://img.icons8.com/color/48/000000/google-docs.png" width="25"> | Google Docs              | Ferramenta para criação e edição colaborativa de documentos.                                                     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25"> | YouTube                  | Plataforma de hospedagem de vídeos produzidos.                                                                   |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
-| <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" width="25"> | Microsoft Teams                 | Ferramenta de comunicação completa, usada para reuniões online e também para gravar encontros.                 |
-| <img src="https://img.icons8.com/color/48/000000/figma.png" width="25"> | Figma | Plataforma colaborativa para design de interfaces, permitindo criar protótipos interativos e realizar edições em tempo real com equipes. |
-| <img src="https://img.icons8.com/color/48/000000/canva.png" width="30">|Canva | Ferramenta de design gráfico intuitiva.                                         |
-|<img src="../assets/images/mkdocs-logo.png">|Mkdocs| Gerador de sites estáticos voltado para documentação de projetos, escrito em Python e utilizando arquivos Markdown para criação de conteúdo de forma simples e organizada.|
+Autor: [Karolina Vieira](https://github.com/Karolina91)
 
-<p align="center">Autor: <a href="https://github.com/Karolina91">Karolina Vieira</a></p>
+## Bibliografia
 
+Explore os principais serviços e ferramentas utilizadas para desenvolvimento, design, comunicação e produtividade:  
+
+### Versionamento e Desenvolvimento  
+- [Git/GitHub](https://github.com/) – Plataforma de versionamento e colaboração em projetos de desenvolvimento.  
+- [VS Code](https://code.visualstudio.com/) – Editor de código-fonte altamente customizável e compatível com diversas linguagens de programação.  
+
+### Documentação e Organização  
+- [Google Docs](https://docs.google.com/) – Ferramenta para criação e edição colaborativa de documentos.  
+- [MkDocs](https://www.mkdocs.org/) – Gerador de sites estáticos voltado para documentação de projetos, escrito em Python e utilizando arquivos Markdown.  
+
+### Design e Prototipação  
+- [Figma](https://www.figma.com/) – Plataforma colaborativa para design de interfaces, permitindo criar protótipos interativos.  
+- [Canva](https://www.canva.com/) – Ferramenta de design gráfico intuitiva.  
+
+### Gravação e Transmissão  
+- [YouTube](https://www.youtube.com/) – Plataforma de hospedagem de vídeos.  
+
+### Comunicação e Colaboração  
+- [WhatsApp](https://www.whatsapp.com/) – Aplicativo de mensagens instantâneas para comunicação rápida e colaboração em equipe.  
+- [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/) – Ferramenta de comunicação para reuniões online e gravação de encontros.  
 
