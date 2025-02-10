@@ -1,3 +1,4 @@
+## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :-----: |
 | 10/12/2024 |        10/12/2024        |  1.0   | Criação do Documento | [Paola Lima](https://github.com/paolaalim) |    [Karolina Vieira](https://github.com/Karolina91)     |
