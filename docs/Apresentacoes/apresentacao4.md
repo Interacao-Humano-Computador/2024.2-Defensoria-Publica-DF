@@ -14,7 +14,7 @@
 </ol>
 
 Link para o vídeo da apresentação:
-[Apresentação]([link](https://unbbr.sharepoint.com/:v:/s/IHC_reunies/ETWx55-M5oFPiLY80peypIIBbOg6DGeC959SFDxenNIYgg?e=QI1Xfp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+[Apresentação](https://unbbr.sharepoint.com/:v:/s/IHC_reunies/ETWx55-M5oFPiLY80peypIIBbOg6DGeC959SFDxenNIYgg?e=QI1Xfp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Referências Bibliográficas
 

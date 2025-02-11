@@ -1,3 +1,4 @@
+## Histórico de Versão
 |    **Data**    | **Data Prevista de Revisão** | **Versão** |        **Descrição**        |                 **Autor**                 |                **Revisor**                 |
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  26/01/2025   |       26/01/2025 |  1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
@@ -108,6 +109,7 @@ A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 2 - I
 
 ### Participantes
 
+Os testes de usabilidade foram planejados com a participação de três usuários, conforme recomendado por Krug. No entanto, devido a circunstâncias imprevistas, apenas uma participante pôde ser envolvida. Krug destaca que, embora o ideal seja testar com três ou quatro usuários, realizar o teste com um é mais vantajoso do que não realizá-lo.
 A participante selecionada para a avaliação atende ao perfil de usuário definido, com idade entre 18 e 60 anos. Além disso, ela possui familiaridade com tecnologia, o que facilita a interação eficiente com o protótipo e a oferta de feedback pertinente sobre os aspectos de usabilidade e interação do sistema.
 
 ### Avaliação Heurística 

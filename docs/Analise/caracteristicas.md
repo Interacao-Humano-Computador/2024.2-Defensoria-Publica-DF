@@ -1,3 +1,4 @@
+## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                 Autor                                                  |                   Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
 | 01/11/2024 |        02/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13)</br></br> [Lucas Sales](https://github.com/Lux-Sales) | [Lucas Sales](https://github.com/Lux-Sales) |

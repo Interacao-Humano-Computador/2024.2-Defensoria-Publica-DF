@@ -1,3 +1,4 @@
+## Histórico de Versão
 |    **Data**    | **Data Prevista de Revisão** | **Versão** |        **Descrição**        |                 **Autor**                 |                **Revisor**                 |
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
@@ -94,6 +95,7 @@ Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.m
 
 ### Seleção dos Participantes
 
+Os testes de usabilidade foram planejados com a participação de três usuários, conforme recomendado por Krug. No entanto, devido a circunstâncias imprevistas, apenas uma participante pôde ser envolvida. Krug destaca que, embora o ideal seja testar com três ou quatro usuários, realizar o teste com um é mais vantajoso do que não realizá-lo.
 O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
 
 ### Sugestões de Melhorias

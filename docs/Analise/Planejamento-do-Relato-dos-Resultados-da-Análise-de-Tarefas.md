@@ -1,3 +1,8 @@
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
+| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento |</br>[Karolina Vieira](https://github.com/Karolina91) | [João Victor C. Nobre](https://github.com/Gam13)  |
+
 # **Planejamento do Relato dos Resultados da Análise de Tarefas**
 
 ## Introdução
