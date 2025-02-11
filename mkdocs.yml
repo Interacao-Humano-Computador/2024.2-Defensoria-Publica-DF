@@ -70,6 +70,7 @@ nav:
     - Apresentação etapa 6: Apresentacoes/apresentacao6.md
     - Apresentação etapa 7: Apresentacoes/apresentacao7.md
     - Apresentação etapa 8: Apresentacoes/apresentacao8.md
+    - Entrega Final: Apresentacoes/apresentacaoentregafinal.md
     
   - Análise de Requisitos:
     - Perfil de Usuário: Analise/perfilUsuario.md
@@ -142,7 +143,7 @@ nav:
     - Execusão do Projeto: entrega/execucao_projeto.md
     - Resultados Alcançados: entrega/resultados_alcancados.md
     - Ferramentas Utilizadas: entrega/ferramentas_projeto.md
-    - Tecnicas Utilizadas: entrega/tecnicas_utilizadas.md
+    - Técnicas Utilizadas: entrega/tecnicas_utilizadas.md
     - Artefatos Criados: entrega/tabela_artefatos.md
     - Síntese das Avaliações: entrega/tabela_avaliacao_prototipos.md
     - Síntese das Verificações: entrega/tabela_verificacao.md
